@@ -8,6 +8,7 @@ public class User {
     private int year;
     private int month;
     private int day;
+    private String secureWord;
     public ArrayList<Card> cards = new ArrayList<>();
     private ArrayList<Account> accounts = new ArrayList<>();
 
