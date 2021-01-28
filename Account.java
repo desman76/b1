@@ -1,4 +1,4 @@
-package bank;
+package b1;
 
 public class Account {
     private long number;
